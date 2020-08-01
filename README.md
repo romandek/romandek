@@ -26,5 +26,5 @@
 - Big Data course 
 
 ## Side projects 
-- (https://questioneverything.substack.com)[Question Everything newsletter] 
+- [Question Everything newsletter](https://questioneverything.substack.com)
 - Studying German A2
