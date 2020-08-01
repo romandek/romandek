@@ -21,3 +21,10 @@
 ![](https://img.shields.io/badge/Task%20management-OmniFocus-informational?style=flat&logo=omnifocus&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Notes-Notion-informational?style=flat&logo=Notion&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Writing-Scrivener-informational?style=flat&logo=Scrivener&logoColor=white&color=a18cff)
+
+## Ongoing projects
+- Big Data course 
+
+## Side projects 
+- (https://questioneverything.substack.com)[Question Everything newsletter] 
+- Studying German A2
