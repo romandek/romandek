@@ -2,13 +2,8 @@
 
 A software developer turned data analyst. 💼 Looking for data analyst / scientist position (preferably remote).
 
-----
 
 <a href="https://twitter.com/romandek_com"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://www.linkedin.com/in/romandek/"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-----
-
-
 
 
 ## Tools I use
