@@ -1,8 +1,14 @@
-# Hi! I'm Roman. 
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pc&logoColor=white&color=449ae8)
-<a href="https://twitter.com/romandek_com"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/romandek/romandek/master/assets/twitter.svg"></a>
+# Hi! I'm Roman 
 
-## Tools 
+<a href="https://twitter.com/romandek_com"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/romandek/"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+A software developer turned data analyst. 
+
+💼 Looking for data analyst / scientist position 
+
+
+## Tools I use
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat&logo=apple&logoColor=white&color=449ae8)
 ![](https://img.shields.io/badge/Windows-10-informational?style=flat&logo=windows&logoColor=white&color=449ae8)
 
@@ -21,7 +27,7 @@
 ![](https://img.shields.io/badge/Ruby-Intermediate-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AppleScript-Advanced-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 
-## Productivity
+## Productivity 
 ![](https://img.shields.io/badge/Task%20management-OmniFocus-informational?style=flat&logo=omnifocus&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Notes-Notion-informational?style=flat&logo=Notion&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Writing-Scrivener-informational?style=flat&logo=Scrivener&logoColor=white&color=a18cff)
