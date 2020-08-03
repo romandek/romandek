@@ -1,6 +1,6 @@
-# Hi! I'm Roman 
+# Hi! I'm Roman
 
-A software developer turned data analyst. 💼 Looking for data analyst / scientist position (preferably remote).
+A software developer turned data scientist. 💼 Looking for data analyst / scientist position (preferably remote).
 Previously worked on Dynamics AX development and administration, SQL reporting and administration, had a year-long streak in copywriting, after 14 years of pure programming, finally moving into data science. 
 
 Previous experince includes X++ (C++ -like language) development, C# programming, SQL administration, SSRS and SSAS reporting, SOAP integrations, JSON integrations. Al throughout the career focused on quality and optimization tasks. On the side, I'm making projects with JavaScript, Ruby, Python, AppleScript.  
