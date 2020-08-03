@@ -3,9 +3,16 @@
 A software developer turned data analyst. 💼 Looking for data analyst / scientist position (preferably remote).
 Previously worked on Dynamics AX development and administration, SQL reporting and administration, had a year-long streak in copywriting, after 14 years of pure programming, finally moving into data science. 
 
-Previous experince includes X++ (C++ -like language) development, C# programming, SQL administration, SSRS and SSAS reporting. Mostly focused on quality and optimization tasks. On the side still continue making projects with JavaScript, Ruby, Python, AppleScript. 
+Previous experince includes X++ (C++ -like language) development, C# programming, SQL administration, SSRS and SSAS reporting, SOAP integrations, JSON integrations. Al throughout the career focused on quality and optimization tasks. On the side, I'm making projects with JavaScript, Ruby, Python, AppleScript.  
 
 You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;<a href="https://www.linkedin.com/in/romandek/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
+
+### Principles
+* Quality over quantity
+* GTD® is everything
+* Knowing how to find something is better than knowing something
+* Deliver more than expected, and deliver often
+* Fist we diagnose, then we prescribe 
 
 ## Tools I use
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat&logo=apple&logoColor=white&color=449ae8)
