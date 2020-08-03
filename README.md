@@ -1,3 +1,7 @@
+# Hi! I'm Roman. 
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pc&logoColor=white&color=449ae8)
+<a href="https://twitter.com/romandek_com"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/romandek/romandek/master/assets/twitter.svg"></a>
+
 ## Tools 
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat&logo=apple&logoColor=white&color=449ae8)
 ![](https://img.shields.io/badge/Windows-10-informational?style=flat&logo=windows&logoColor=white&color=449ae8)
