@@ -9,14 +9,12 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 
 ### Principles
 * Quality over quantity
-* GTD® is everything
 * Knowing how to find something is better than knowing something
 * Deliver more than expected, and deliver often
-* Fist we diagnose, then we prescribe 
+* Fist, diagnose, then prescribe 
 
 ## Ongoing projects
 - Big Data analytics course 
-- 
 
 ## Side projects 
 - [Question Everything newsletter](https://questioneverything.substack.com)
