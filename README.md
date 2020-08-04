@@ -24,6 +24,13 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 - Training to climb my first 3k and 4k mountains
 - Trying to relocate to Austria 🇦🇹 or Switzerland 🇨🇭
 
+## Other notable things 
+- Created an Android app for determinining if the user is walking, standing, or sitting (2013, Weka + K-nearest neighbours algo)
+- Developed a custom Dynamics AX module for tax accounting (2013) 
+- Developed a custom project estimates module for Dynamics AX (2015)
+- Have five books in various stages of being written (2016-now)
+- Highest climbed mountain - Triglav, 2864m 
+
 ## Tools I use
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat-square&logo=apple&logoColor=white&color=449ae8)
 ![](https://img.shields.io/badge/Windows-10-informational?style=flat-square&logo=windows&logoColor=white&color=449ae8)
@@ -42,7 +49,7 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 ![](https://img.shields.io/badge/X++-Advanced-informational?style=flat-square&logo=Dynamics-365&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-Intermediate-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SQL-Master-informational?style=flat-square&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ruby-Intermediate-informational?style=flat-square&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ruby-Beginner-informational?style=flat-square&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AppleScript-Advanced-informational?style=flat-square&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML5-Advanced-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS3-Advanced-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
