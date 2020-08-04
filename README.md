@@ -14,6 +14,13 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 * Deliver more than expected, and deliver often
 * Fist we diagnose, then we prescribe 
 
+## Ongoing projects
+- Big Data course 
+
+## Side projects 
+- [Question Everything newsletter](https://questioneverything.substack.com)
+- Studying German A2
+
 ## Tools I use
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat&logo=apple&logoColor=white&color=449ae8)
 ![](https://img.shields.io/badge/Windows-10-informational?style=flat&logo=windows&logoColor=white&color=449ae8)
@@ -37,10 +44,3 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 ![](https://img.shields.io/badge/Task%20management-OmniFocus-informational?style=flat&logo=omnifocus&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Notes-Notion-informational?style=flat&logo=Notion&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Writing-Scrivener-informational?style=flat&logo=Scrivener&logoColor=white&color=a18cff)
-
-## Ongoing projects
-- Big Data course 
-
-## Side projects 
-- [Question Everything newsletter](https://questioneverything.substack.com)
-- Studying German A2
