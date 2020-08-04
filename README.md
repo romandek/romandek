@@ -45,12 +45,13 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 ## Languages 
 ![](https://img.shields.io/badge/Python%203.7-Intermediate-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/X++-Advanced-informational?style=flat-square&logo=Dynamics-365&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-Intermediate-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQL-Master-informational?style=flat-square&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ruby-Beginner-informational?style=flat-square&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL-Advanced-informational?style=flat-square&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AppleScript-Advanced-informational?style=flat-square&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML5-Advanced-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS3-Advanced-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-Intermediate-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ruby-Beginner-informational?style=flat-square&logo=ruby&logoColor=white&color=2bbc8a)
+
 
 ![](https://img.shields.io/badge/English-C2-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lithuanian-C2-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
