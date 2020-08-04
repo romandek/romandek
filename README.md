@@ -52,6 +52,12 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 ![](https://img.shields.io/badge/HTML5-Advanced-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS3-Advanced-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/English-C2-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lithuanian-C2-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Russian-C2-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/French-A1-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/German-A1-informational?style=flat-square&logo=duolingo&logoColor=white&color=2bbc8a)
+
 ## Productivity 
 ![](https://img.shields.io/badge/Task%20management-OmniFocus-informational?style=flat-square&logo=omnifocus&logoColor=white&color=a18cff)
 ![](https://img.shields.io/badge/Notes-Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=a18cff)
