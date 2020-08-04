@@ -15,11 +15,14 @@ You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img he
 * Fist we diagnose, then we prescribe 
 
 ## Ongoing projects
-- Big Data course 
+- Big Data analytics course 
+- 
 
 ## Side projects 
 - [Question Everything newsletter](https://questioneverything.substack.com)
-- Studying German A2
+- Studying German A2 
+- Training to climb my first 3k and 4k mountains
+- Trying to relocate to Austria 🇦🇹 or Switzerland 🇨🇭
 
 ## Tools I use
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat-square&logo=apple&logoColor=white&color=449ae8)
