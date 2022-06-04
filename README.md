@@ -6,7 +6,7 @@ Previously worked on Dynamics AX development and administration, SQL reporting a
 
 I've worked with object-oriented development for a number of years, Python and similar interpreted languages, and scripting with JavaScript. I have a large experience of Microsoft SQL Server administration and data engineering. Currently working on big data infrastructure with Hadoop, Kafka, AWS EMR. 
 
-You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;<a href="https://www.linkedin.com/in/romandek/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
+You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;<a href="https://www.linkedin.com/in/romandek/"><img src="https://unpkg.com/simple-icons@v3.13/icons/linkedin.svg" height="20" width="20" style="filter: invert(30%) sepia(82%) saturate(1606%) hue-rotate(178deg) brightness(87%) contrast(102%); fill: red;"/></a>
 
 ### Principles
 * Quality over quantity
