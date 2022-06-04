@@ -1,34 +1,27 @@
 # Hi! I'm Roman.
 
-I'm an software egnineer, currently working as a technical business analyst in finance sector. Open for side projects and collaboration. 
+I'm an software egnineer, currently working as a technical business analyst in banking sector. Open for side projects and collaboration. 
 
 Previously worked on Dynamics AX development and administration, SQL reporting and administration, had a year-long gig in copywriting. After 14 years of pure engineering, I moved on to more softcore specialties. 
 
-Previous experince includes X++ (C++ -like language) development, C# programming, SQL administration, SSRS and SSAS reporting, SOAP integrations, JSON integrations. Al throughout the career focused on quality and optimization tasks. On the side, I'm making projects with JavaScript, Ruby, Python, AppleScript.  
+I've worked with object-oriented development for a number of years, Python and similar interpreted languages, and scripting with JavaScript. I have a large experience of Microsoft SQL Server administration and data engineering. Currently working on big data infrastructure with Hadoop, Kafka, AWS EMR. 
 
 You can reach me here: &nbsp; <a href="https://twitter.com/romandek_com"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;<a href="https://www.linkedin.com/in/romandek/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ### Principles
 * Quality over quantity
 * Knowing how to find something is better than knowing something
-* Deliver more than expected, and deliver often
-* Fist, diagnose, then prescribe 
+* Underpromise and overdeliver
+* Fist, diagnose, then prescribe
 
-## Ongoing projects
-- Big Data analytics course 
-
-## Side projects 
-- [Question Everything newsletter](https://questioneverything.substack.com)
-- Studying German A2 
-- Training to climb my first 3k and 4k mountains
-- Trying to relocate to Austria 🇦🇹 or Switzerland 🇨🇭
 
 ## Other notable things 
 - Created an Android app for determinining if the user is walking, standing, or sitting (2013, Weka + K-nearest neighbours algo)
 - Developed a custom Dynamics AX module for tax accounting (2013) 
 - Developed a custom project estimates module for Dynamics AX (2015)
-- Have five books in various stages of being written (2016-now)
-- Highest climbed mountain - Triglav, 2864m 
+- Highest climbed mountain up to date - Triglav, 2864m
+
+
 
 ## Tools I use
 ![](https://img.shields.io/badge/MacOS-10.15-informational?style=flat-square&logo=apple&logoColor=white&color=449ae8)
