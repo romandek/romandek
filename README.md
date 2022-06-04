@@ -1,7 +1,8 @@
-# Hi! I'm Roman
+# Hi! I'm Roman.
 
-A software developer turned data scientist, turned business analyst. 💼 Working as a technical business analyst in finance sector. Open for data science side projects. 
-Previously worked on Dynamics AX development and administration, SQL reporting and administration, had a year-long streak in copywriting, after 14 years of pure programming, finally moving into data science. 
+I'm an software egnineer, currently working as a technical business analyst in finance sector. Open for side projects and collaboration. 
+
+Previously worked on Dynamics AX development and administration, SQL reporting and administration, had a year-long gig in copywriting. After 14 years of pure engineering, I moved on to more softcore specialties. 
 
 Previous experince includes X++ (C++ -like language) development, C# programming, SQL administration, SSRS and SSAS reporting, SOAP integrations, JSON integrations. Al throughout the career focused on quality and optimization tasks. On the side, I'm making projects with JavaScript, Ruby, Python, AppleScript.  
 
